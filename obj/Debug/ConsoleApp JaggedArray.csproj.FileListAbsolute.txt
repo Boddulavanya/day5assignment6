@@ -1,0 +1,8 @@
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleApp JaggedArray\ConsoleApp JaggedArray\bin\Debug\ConsoleApp JaggedArray.exe.config
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleApp JaggedArray\ConsoleApp JaggedArray\bin\Debug\ConsoleApp JaggedArray.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleApp JaggedArray\ConsoleApp JaggedArray\bin\Debug\ConsoleApp JaggedArray.pdb
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleApp JaggedArray\ConsoleApp JaggedArray\obj\Debug\ConsoleApp JaggedArray.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleApp JaggedArray\ConsoleApp JaggedArray\obj\Debug\ConsoleApp JaggedArray.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleApp JaggedArray\ConsoleApp JaggedArray\obj\Debug\ConsoleApp JaggedArray.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleApp JaggedArray\ConsoleApp JaggedArray\obj\Debug\ConsoleApp JaggedArray.exe
+C:\Users\Dell\Desktop\practice exercises\simplilearn\assingment\day-5\ConsoleApp JaggedArray\ConsoleApp JaggedArray\obj\Debug\ConsoleApp JaggedArray.pdb
